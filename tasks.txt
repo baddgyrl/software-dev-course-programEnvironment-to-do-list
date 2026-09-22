@@ -1,1 +1,8 @@
 # To-Do List
+- [x] Complete Git lesson
+- [x] Review HTML basics
+- [x] Start JavaScript
+git add tasks.txt
+git commit -m "Message Lesson 3 Git Hub"
+
+
